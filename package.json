@@ -1,6 +1,5 @@
 {
   "name": "otherdeed",
-  "homepage": "./",
   "version": "1.0.0",
   "description": "otherdeed search engine",
   "main": "backend/index.js",
