@@ -1,3 +1,2 @@
 # NFT-Search-Site-Otherdeed
-Nft search site for a top NFT collection (Otherdeeds for otherside) which displays plots and their respective information.
-Used React & Node
+Built an Otherdeed NFT search site with React that displays NFT pictures and their information through API calls. The site includes a feature that allows users to generate a predetermined list of NFTs in the collection, as well as a search function that lets users search for NFTs by ID number and displays the corresponding NFT picture along with its trait information.
